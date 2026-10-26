@@ -1,6 +1,8 @@
 # WhiskeyTangoFussell Homebrew tap
 
 ```sh
+brew tap whiskeytangofussell/tap
+brew trust --formula whiskeytangofussell/tap/matrix-screensaver
 brew install whiskeytangofussell/tap/matrix-screensaver
 ```
 
