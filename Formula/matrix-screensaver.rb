@@ -1,8 +1,8 @@
 class MatrixScreensaver < Formula
   desc "Native macOS screen saver inspired by cmatrix's digital rain"
   homepage "https://github.com/WhiskeyTangoFussell/matrix-screensaver-macos"
-  url "https://github.com/WhiskeyTangoFussell/matrix-screensaver-macos/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "c77fecfc8fd18aef6145e4029f6f98a5b8535049b03b0833ce06edbc3a33041b"
+  url "https://github.com/WhiskeyTangoFussell/matrix-screensaver-macos/archive/refs/tags/v1.3.0.tar.gz"
+  sha256 "ad75db0ca49d3d09cd4cfb601348a67122745376e8842650b04949ecf5a50aca"
   license "GPL-3.0-only"
 
   depends_on macos: :sequoia
